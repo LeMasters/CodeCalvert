@@ -1,15 +1,18 @@
 # CodeCalvert
 
-Breaking and Making
+### Breaking and Making
+
 Calvert County Public Libraries, MD
 
 March 2015
 
 Garrison LeMasters, D.Phil.
+
 Georgetown University
+
 Program in Communication, Culture, and Technology
 
-This is the README document that sits at the top of every repository.  A repository is a place where code is stored.
+> This is the README document that sits at the top of every repository.  A repository is a place where code is stored.
 
 ## Useful Information
 
